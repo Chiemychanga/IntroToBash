@@ -1,0 +1,5 @@
+Shirts 5
+YKK-Zippers 6
+Pants 4
+Jackets 2
+Sweaters 2

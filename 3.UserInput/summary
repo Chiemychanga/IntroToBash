@@ -1,0 +1,8 @@
+#!/bin/bash
+# A basic summary of my clothes
+
+echo Here is a  summary of my basic wardrobe:
+echo =======================================
+echo
+
+cat /dev/stdin | cut -d' ' -f 1,2 | sort
